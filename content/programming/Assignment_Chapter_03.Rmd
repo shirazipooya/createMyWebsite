@@ -1,0 +1,14 @@
+---
+title: "MATLAB Assignment - Chapter 03"
+author: "Pooya Shirazi"
+date: 2018-11-16T00:00:00-08:00
+output: html_document
+---
+
+This page contains your homework assignments. Please first download **"Download MATLAB Assignment - Chapter 03"**, then based on the number of your group complete your assignments.
+
+<center>
+###[Download MATLAB Assignment - Chapter 03](file/Programming/Assignment_Chapter_03.pdf)
+
+![Assignment Grouping](file/Programming/Assignment_Chapter_03.png)
+</center>

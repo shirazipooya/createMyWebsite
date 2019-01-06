@@ -1,0 +1,15 @@
+---
+title: "MATLAB Assignment - Chapter 01"
+author: "Pooya Shirazi"
+date: 2018-10-23T00:00:00-08:00
+output: html_document
+---
+
+This page contains your homework assignments. Please first download **"Download MATLAB Assignment - Chapter 01"**, then based on the number of your group complete your assignments.
+
+<center>
+###[Download MATLAB Assignment - Chapter 01](file/Programming/Assignment_Chapter_01.pdf)
+
+![Assignment Grouping](file/Programming/Assignment_Chapter_01.png)
+</center>
+
